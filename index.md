@@ -1,12 +1,13 @@
-## Welcome to GitHub Pages
+## Welcome to Tori Lauchland's Page
 
-You can use the [editor on GitHub](https://github.com/torilauchland/Demo-repo/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Tori Lauchland is an Asset Coordinator within DMED at The Walt Disney Company.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Goals for this Mentorship
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- Learn simple coding techniques with HTML.
+- Learn about Git and Github.
+- Create an account and a repo with Github.
+- Create a website to practice tools learned.
 
 ```markdown
 Syntax highlighted code block
